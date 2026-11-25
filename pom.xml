@@ -14,7 +14,7 @@
     -->
     <groupId>com.github.drakescraft_labs</groupId>
     <artifactId>drakes-labs-autoupdate</artifactId>
-    <version>11-SNAPSHOT</version>
+    <version>11</version>
     <packaging>jar</packaging>
 
     <name>drakes-labs-autoupdate</name>
